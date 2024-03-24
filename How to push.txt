@@ -1,0 +1,29 @@
+GITHUB ->
+
+Pushing First Time -
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Shrey-202267/github-practice.git
+git push -u origin main
+
+Version Control - 
+
+stash the changed code -> go to version control icon
+			  go to ... dots
+			  go to stash
+			  select stash(include untracked)
+			 
+Make new Branch -> From bottom left click on previous brach name
+		   make new brach
+ 		   publish new branch
+
+Apply latest stash -> got to ... dots
+		      go to stash
+		      select apply latest stash
+
+push the changes-> git add .
+		   git commit -m "second commit"
+		   git push
